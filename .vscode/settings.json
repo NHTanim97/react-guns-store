@@ -1,0 +1,20 @@
+{
+    "css.validate": false,
+    "tailwindCSS.emmetCompletions": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+},
+"emmet.preferences": {
+    
+
+
+
+
+},
+"css.styleSheets": [
+
+
+
+]
+ }
+ 
